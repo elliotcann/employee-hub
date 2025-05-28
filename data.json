@@ -1,7 +1,7 @@
 {
     "name": "Employee Hub",
     "description": "A dashboard for tracking employee performance.",
-    "logo": "./AranetLogo.jpeg",
+    "logo": "/AranetLogo.jpeg",
     "author": "Aranet",
     "version": "1.0.0"
 }
